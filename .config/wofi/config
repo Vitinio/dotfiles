@@ -1,0 +1,16 @@
+[config]
+allow_images=true
+width=50%
+show=drun
+prompt=Search
+height=45%
+term=kitty
+hide_scroll=false
+icon_only=true
+print_command=true
+insensitive=true
+columns=2
+no_actions=false
+normal_window=true
+layout=grid
+
